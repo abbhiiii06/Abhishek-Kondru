@@ -1,0 +1,6 @@
+{
+  "name": "Certificate Verifier",
+  "description": "SkillCraft Technology Certificate Verification portal to verify certificate authenticity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
